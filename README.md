@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cpt-Shime
 - 👀 I’m interested in  everything so I don't know where to start first
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently Go
 - 📫 Reach me on vrsalovic.ivan@gmail.com
 
 <!---
