@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cpt-Shime
 - 👀 I’m interested in  everything so I don't know where to start first
-- 🌱 I’m currently Go
+- 🌱 I’m currently starting flutter
 - 📫 Reach me on vrsalovic.ivan@gmail.com
 
 <!---
