@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cpt-Shime
+- 👋 Hi, I’m Ivan Vrsalović
 - 📫 Reach me on vrsalovic.ivan@gmail.com
 
 <!---
